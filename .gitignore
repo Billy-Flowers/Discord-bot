@@ -1,0 +1,11 @@
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+#IDE files
+.vscode
+
+
